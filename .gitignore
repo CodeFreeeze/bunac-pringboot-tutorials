@@ -1,0 +1,42 @@
+target/
+!.mvn/wrapper/maven-wrapper.jar
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+logs/
+
+### Others ###
+application.yml
+gensources/
+src/main/java/generated/*
+src/main/java/hk/*
+src/main/java/util/*
+src/main/java/ws/*
+transaction-logs/*
+src/main/java/hksarg/*
+*.epoch
+*.log
+*.log.*
+*.lock.*
+*.lck.*
+*.lck
+src/main/java/com/pccw/immd/gen/*
